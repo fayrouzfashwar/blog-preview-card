@@ -58,7 +58,8 @@ Use this section to recap over some of your major learnings while working throug
 
 ### Useful resources
 
-- [resource 1]([https://www.example.com](https://youtu.be/EwnnFMX-lqM?si=SeePyWM4nKov5g_Q)) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [resource 1]((https://youtu.be/EwnnFMX-lqM?si=SeePyWM4nKov5g_Q)) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [resource 1]((https://youtu.be/2IV08sP9m3U?si=OmFz_xRMBq12ImIq)) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
 ## Author
 
